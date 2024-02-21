@@ -60,12 +60,6 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
   <br>
-  <table>
-      <tr>
-          <td  style="border: 2px solid lightgrey;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioshe&layout=compact"></td>
-          <td style="border: 2px solid lightgrey;"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ioshe0167" alt="Solved.ac 프로필" style="object-fit: contain; width: 100%;"/></td>
-      </tr>
-  </table>
   <br>
 </div>
 
