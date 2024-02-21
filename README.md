@@ -4,6 +4,17 @@
 
 
 <div align=center> 
+
+<table>
+  <tr>
+      <td  style="border: 2px solid lightgrey;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioshe&layout=compact"></td>
+      <td style="border: 2px solid lightgrey;"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ioshe0167" alt="Solved.ac 프로필" style="object-fit: contain; width: 100%;"/>
+      </td>
+  </tr>
+</table>
+<br>
+<br>
+
 <h1> 📚 STACKS 📚 </h1>
   <h2>✏️ language ✏️</h2>
 <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white">
@@ -57,8 +68,5 @@
   </table>
   <br>
 </div>
-
-
-
 
 
